@@ -43,3 +43,4 @@
 
 ### 📫 联系我
 - **GitHub**: [CNYGUO](https://github.com/CNYGUO)
+- **Mail**: [cnyguo0717@gmail.com](https://gmail.com/cnyguo0717@gmail.com)
