@@ -13,19 +13,6 @@
 - ⚡ 技能背景：材料模拟/力学仿真与机械设计
 
 ---
-### 📊 我的 GitHub 统计
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CNYGUO&show_icons=true&theme=radical&cache_seconds=1800" alt="CNYGUO's GitHub stats" />
-</p>
-
----
-<!-- 添加这一段来显示语言占比 -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CNYGUO&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
-### 🛠 技能树
-
----
 #### 💻 编程与开发
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
