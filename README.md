@@ -16,10 +16,8 @@
 
 ### 📊 我的 GitHub 统计
 <p align="left">
-  <!-- 这里换了一个稍微稳定点的统计风格 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=CNYGUO&show_icons=true&theme=radical&hide_border=true" alt="CNYGUO's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CNYGUO&show_icons=true&theme=radical&cache_seconds=1800" alt="CNYGUO's GitHub stats" />
 </p>
-
 ---
 
 ### 🛠 技能树
@@ -43,4 +41,4 @@
 
 ### 📫 联系我
 - **GitHub**: [CNYGUO](https://github.com/CNYGUO)
-- **Mail**: [cnyguo0717@gmail.com](https://gmail.com/cnyguo0717@gmail.com)
+- **Mail**: <a href="mailto:cnyguo0717@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
