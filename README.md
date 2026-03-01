@@ -1,17 +1,13 @@
-## Hi there 👋
-
-<!--
-**CNYGUO/CNYGUO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 你好，我是 CNYGUO !
-
 ### 💫 关于我
 我是一名正在探索 Python 和数据科学的学习者。我具有工程软件背景，致力于将编程与工程仿真相结合。
-- 🔭 我最近在研究：Python 绘图与极限验证
+- 🔭 我最近在研究：Python 编程与考研数二结合验证
 - 🌱 我正在学习：GitHub 自动化与数据可视化
-- ⚡ 技能背景：材料模拟/力学仿真与机械设计
+- ⚡ 技能背景： 材料模拟/力学仿真与机械设计
+- 🤔 合作帮助： 基于单片机排水工程
+---
 
-### 🛠 技能树
+### 🛠技能树
 #### 💻 编程与开发
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
