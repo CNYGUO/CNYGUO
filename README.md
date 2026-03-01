@@ -6,32 +6,37 @@
 # 👋 你好，我是 CNYGUO !
 
 ### 💫 关于我
-我是一名正在探索 Python 和数据科学的学习者。我喜欢用代码解决数学问题，并将其可视化。
+我是一名正在探索 Python 和数据科学的学习者。我具有工程软件背景，致力于将编程与工程仿真相结合。
 
 - 🔭 我最近在研究：Python 绘图与极限验证
-- 🌱 我正在学习：GitHub 自动化与 GUI 编程
-- ⚡ 趣味：把图片变成字符画，探索数学之美
+- 🌱 我正在学习：GitHub 自动化与数据可视化
+- ⚡ 技能背景：材料模拟/力学仿真与机械设计
 
 ---
 
 ### 📊 我的 GitHub 统计
-<!-- 这里使用了特殊的 API 自动抓取你的数据，只需要把名字换成你的 -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=CNYGUO&show_icons=true&theme=radical" alt="CNYGUO's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CNYGUO&layout=compact&theme=visual_studio_dark" alt="Top Langs" />
+  <!-- 这里换了一个稍微稳定点的统计风格 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=CNYGUO&show_icons=true&theme=radical&hide_border=true" alt="CNYGUO's GitHub stats" />
 </p>
 
 ---
 
 ### 🛠 技能树
+
+#### 💻 编程与开发
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+#### ⚙️ 工程软件 (Simulation & Design)
+<p align="left">
+  <!-- 自定义制作的 ProCAST 和 SolidWorks 图标 -->
+  <img src="https://img.shields.io/badge/ProCAST-Casting_Simulation-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SolidWorks-CAD_Design-red?style=for-the-badge&logo=solidworks" />
+  <img src="https://img.shields.io/badge/AutoCAD-Software-0696D7?style=for-the-badge&logo=autodesk" />
 </p>
 
 ---
