@@ -52,9 +52,8 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
- ---
- 
 
+ ---
 ### 🤖 AIGC 辅助开发 (AI-Powered Development)
 本项目在开发过程中，通过与以下 AIGC 工具进行深度协作完成，包括逻辑构思、代码排查及文档美化。
 
