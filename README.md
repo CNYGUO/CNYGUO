@@ -47,12 +47,20 @@
   <a href="mailto:cnyguo0717@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <!-- GitHub 徽章 (虽然就在主页，但加一个很酷) -->
-  <a href="https://github.com/CNYGUO">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+ ---
+
+### 🤖 AIGC 辅助开发 (AI-Powered Development)
+本项目在开发过程中，通过与以下 AIGC 工具进行深度协作完成，包括逻辑构思、代码排查及文档美化。
+
+<p align="left">
+  <!-- OpenAI 徽章 -->
+  <a href="https://openai.com/">
+    <img src="https://img.shields.io/badge/OpenAI-ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  </a>
+  <!-- Google AI 徽章 -->
+  <a href="https://deepmind.google/technologies/gemini/">
+    <img src="https://img.shields.io/badge/Google_AI-Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google AI" />
   </a>
 </p>
----
-Credits / AI Attribution
-This project was developed with the assistance of AI (Claude/ChatGPT) to accelerate learning and code optimization.
-本项目在开发过程中参考了 AI (Claude/ChatGPT) 的建议，用于代码结构优化及问题排查。
+
+> **声明**：AI 提供了架构建议与调试支持，核心逻辑由作者通过实践验证与二次开发实现。
