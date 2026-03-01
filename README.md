@@ -52,3 +52,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+---
+Credits / AI Attribution
+This project was developed with the assistance of AI (Claude/ChatGPT) to accelerate learning and code optimization.
+本项目在开发过程中参考了 AI (Claude/ChatGPT) 的建议，用于代码结构优化及问题排查。
