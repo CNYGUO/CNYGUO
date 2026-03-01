@@ -47,7 +47,13 @@
   <a href="mailto:cnyguo0717@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
+  <!-- GitHub 徽章 (虽然就在主页，但加一个很酷) -->
+  <a href="https://github.com/CNYGUO">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
  ---
+ 
 
 ### 🤖 AIGC 辅助开发 (AI-Powered Development)
 本项目在开发过程中，通过与以下 AIGC 工具进行深度协作完成，包括逻辑构思、代码排查及文档美化。
