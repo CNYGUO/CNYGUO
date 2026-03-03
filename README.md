@@ -38,7 +38,7 @@
 </p>
 
  ---
-### 🤖 AIGC 辅助开发 (AI-Powered Development)
+### 🤖 AGI 辅助开发 (AI-Powered Development)
 本项目在开发过程中，通过与以下 AIGC 工具进行深度协作完成，包括逻辑构思、代码排查及文档美化。
 
 <p align="left">
