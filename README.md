@@ -50,6 +50,10 @@
   <a href="https://deepmind.google/technologies/gemini/">
     <img src="https://img.shields.io/badge/Google_AI-Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google AI" />
   </a>
+    <!-- Deepseek 徽章 -->
+  <a href="https://platform.deepseek.com/">
+    <img src="https://img.shields.io/badge/DeepSeek-API-412991?style=for-the-badge&logo=deepseek&logoColor=white" alt="Deepseek" />
+  </a>
 </p>
 
 > **声明**：AI 提供了架构建议与调试支持，核心逻辑由作者通过实践验证与二次开发实现。
